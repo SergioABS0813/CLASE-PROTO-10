@@ -52,6 +52,12 @@ Además, si se cae un nodo, siguen funcionando, son estables.
   ![image](https://github.com/SergioABS0813/CLASE-PROTO-10/assets/134556600/2ceecea2-6923-4f95-8e70-f7c543c5cc1d)
 
  
+## PROTOCOLO DSR (Dynamic Source Routing)
+
+Redes de tamaño medio (200 nodos), admite altas velocidades.
+
+Cuando el nodo S desea enviarle al nodo D, pero no tiene ruta hasta D, entonces empieza su recovery (descubrimiento).
+
 
 
 
